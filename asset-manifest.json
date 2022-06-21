@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e62ac5a2.css",
+    "main.js": "/static/js/main.df5e4792.js",
+    "static/media/linxie.jpg": "/static/media/linxie.1149f8a508e67c967024.jpg",
+    "static/media/myou.jpg": "/static/media/myou.7fa637b5614293509a8a.jpg",
+    "index.html": "/index.html",
+    "main.e62ac5a2.css.map": "/static/css/main.e62ac5a2.css.map",
+    "main.df5e4792.js.map": "/static/js/main.df5e4792.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e62ac5a2.css",
+    "static/js/main.df5e4792.js"
+  ]
+}
