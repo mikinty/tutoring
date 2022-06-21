@@ -16,7 +16,7 @@ a:visited {
 
 #tutor-container {
   height: 100%;
-  align-items: start;
+  align-items: flex-start;
 
   .headshot {
     display: flex;
@@ -28,7 +28,7 @@ a:visited {
       height: 70%;
       display: flex;
       justify-content: center;
-      align-items: start;
+      align-items: flex-start;
       overflow: hidden;
       border-radius: 8px;
 

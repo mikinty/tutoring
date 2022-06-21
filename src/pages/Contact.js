@@ -5,7 +5,7 @@ export default function Contact() {
     <div className="page" id="page-contact">
       <h1 className="page-header">Contact</h1>
       <a id="email-link" href="mailto:nyc.math.cs.tutor@gmail.com">
-        Email Us!
+        Email Us: nyc.math.cs.tutor@gmail.com
       </a>
     </div>
   );
