@@ -20,7 +20,7 @@ export default function Classes() {
     "Algebra",
     "Geometry",
     "Calculus",
-    "Competition Math (MathCounts, NYCIML, AMC)",
+    "Competition Math (MathCounts, AMC)",
     "Undergraduate Math",
   ];
 
