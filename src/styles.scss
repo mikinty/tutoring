@@ -11,21 +11,17 @@ a:visited {
 }
 
 .full-page {
-  height: 100vh;
   width: 100%;
 }
 
 #tutor-container {
-  display: flex;
-  flex-direction: row;
-  height: 90%;
+  height: 100%;
   align-items: start;
 
   .headshot {
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 50%;
 
     .headshot-image-wrapper {
       width: 80%;
@@ -44,6 +40,7 @@ a:visited {
 
     .description {
       width: 80%;
+      margin-bottom: 16px;
     }
   }
 }
@@ -52,7 +49,7 @@ a:visited {
   display: flex;
   flex-direction: row;
 
-  .class-column {
+  .column {
     width: 50%;
 
     .title {
@@ -63,6 +60,16 @@ a:visited {
       font-size: larger;
       margin-top: 16px;
       margin-bottom: 16px;
+    }
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .double-column {
+    flex-direction: column;
+
+    .column {
+      width: 100%;
     }
   }
 }

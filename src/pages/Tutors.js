@@ -4,7 +4,7 @@ import linxie from "../images/linxie.jpg";
 
 function headshot(image, name, description) {
   return (
-    <div className="headshot">
+    <div className="headshot column">
       <div className="headshot-image-wrapper">
         <img src={image} alt={`headshot of ${name}`} />
       </div>
@@ -18,7 +18,7 @@ export default function Tutors() {
   return (
     <div className="full-page" id="tutors">
       <h1 className="page-header">Meet the Tutors</h1>
-      <div id="tutor-container">
+      <div className="double-column" id="tutor-container">
         {headshot(
           linxie,
           "Lin Xie",

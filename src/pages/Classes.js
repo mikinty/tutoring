@@ -2,7 +2,7 @@ import React from "react";
 
 function classesColumn(title, topics) {
   return (
-    <div className="class-column">
+    <div className="column">
       <div className="title">{title}</div>
       <div className="topics-container">
         {topics.map((topic) => (
