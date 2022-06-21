@@ -16,7 +16,7 @@ function headshot(image, name, description) {
 
 export default function Tutors() {
   return (
-    <div className="page" id="tutors">
+    <div className="full-page" id="tutors">
       <h1 className="page-header">Meet the Tutors</h1>
       <div id="tutor-container">
         {headshot(

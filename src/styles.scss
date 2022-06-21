@@ -5,7 +5,12 @@ body {
   margin: 0;
 }
 
-.page {
+a:link,
+a:visited {
+  color: white;
+}
+
+.full-page {
   height: 100vh;
   width: 100%;
 }
@@ -14,6 +19,7 @@ body {
   display: flex;
   flex-direction: row;
   height: 90%;
+  align-items: start;
 
   .headshot {
     display: flex;
@@ -59,4 +65,13 @@ body {
       margin-bottom: 16px;
     }
   }
+}
+
+#page-contact {
+  #email-link {
+    color: white;
+    font-size: xx-large;
+  }
+
+  margin-bottom: 48px;
 }
