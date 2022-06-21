@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "https://mikinty.github.io/tutoring/static/css/main.e62ac5a2.css",
-    "main.js": "https://mikinty.github.io/tutoring/static/js/main.b0529fc5.js",
+    "main.css": "https://mikinty.github.io/tutoring/static/css/main.82ac5952.css",
+    "main.js": "https://mikinty.github.io/tutoring/static/js/main.8eea3e7e.js",
     "static/media/linxie.jpg": "https://mikinty.github.io/tutoring/static/media/linxie.1149f8a508e67c967024.jpg",
     "static/media/myou.jpg": "https://mikinty.github.io/tutoring/static/media/myou.7fa637b5614293509a8a.jpg",
     "index.html": "https://mikinty.github.io/tutoring/index.html",
-    "main.e62ac5a2.css.map": "https://mikinty.github.io/tutoring/static/css/main.e62ac5a2.css.map",
-    "main.b0529fc5.js.map": "https://mikinty.github.io/tutoring/static/js/main.b0529fc5.js.map"
+    "main.82ac5952.css.map": "https://mikinty.github.io/tutoring/static/css/main.82ac5952.css.map",
+    "main.8eea3e7e.js.map": "https://mikinty.github.io/tutoring/static/js/main.8eea3e7e.js.map"
   },
   "entrypoints": [
-    "static/css/main.e62ac5a2.css",
-    "static/js/main.b0529fc5.js"
+    "static/css/main.82ac5952.css",
+    "static/js/main.8eea3e7e.js"
   ]
 }
